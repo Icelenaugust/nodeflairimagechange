@@ -1,8 +1,7 @@
 .image-container {
-    background-color: antiquewhite;
+    text-align: center;
     display: flex;
-    justify-content: center;
     flex-flow: column;
-    width: 1000px;
-    height: 1000px;
+    width: 100%;
+    align-items: center;
 }
